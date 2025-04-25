@@ -276,3 +276,6 @@ plt.show()
 - At a certain frequency (42 THz in this simulation), they oscillate most — this is resonance.
 - The chart shows how vibration amplitude changes with frequency.
 - This method helps identify the best AC frequency to increase collisions and improve fusion.
+
+## My Notes: 
+- The Above code written using chat-gpt and i wish to understand the code so that i may be able to make improvements and changes according to myself since I am only a Beginner in Python many of these seem challenging However, I understand this code to a basic level thatv being we first gerate a data set to train the AI and also to test the AI once we have trianed and Tested the Algorithm then we can use it to make predictions to help us determine whether or not an Idea is practical or not
