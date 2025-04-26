@@ -244,7 +244,7 @@ print(f"Mean Squared Error: {mse}")
 ## Results:
 ![Alt text](https://github.com/Abdula668/Lattice-Confinement-Fusion/blob/b214470b605cb4c089d97dd510faa5cefd075dcf/Screenshot%202025-04-27%20013252.png)
 
-##Conclusion: 
+  ## Conclusions:
 - We can see that from the graph that increasing the negative eleectric field increase the fuel absorbtion making it a viable method to improve LCF 
 
 ## 🔁 Idea 2: Resonant Fusion via Alternating Current
