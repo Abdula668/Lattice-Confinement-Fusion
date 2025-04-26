@@ -280,6 +280,11 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
+## Results:
+![Alt text](https://github.com/Abdula668/Lattice-Confinement-Fusion/blob/a0d90287222dae6863f02bcef732d3afdf50fa5e/Screenshot%202025-04-27%20024729.png)
+
+## Conclusions:
+- Applying an AC electric field at X THz induces maximum resonant motion in deuterium nuclei, increasing fusion collision likelihood.
 
 ### 💬 Explanation:
 - Deuterons oscillate under an electric field.
