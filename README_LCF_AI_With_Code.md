@@ -313,3 +313,7 @@ This simulation models how **deuterons** react to **alternating electric fields*
 - Advanced studies could involve modeling "heavy electrons" (quasiparticles) to simulate muon-like behavior inside metallic lattices.
 
 ---
+ ## My Notes:
+- I have realized that the code provided by Chat-Gpt has a flaw that it doesn't do actualy calculatiosn to determine whether or not AC Oscillations actually increase the fusion likelihood it just assumes that it does and then just creates a graph assuming that 42 THz is the right frquency which now i realize to be of little use.
+- I must first find a way to get data that AC Oscillations do actually increase the likelihood of Fusion either through the Data available online or i will need to use physics formulas to make the data and since I am learning Physics while also working in this project i will need to Study even more in Physics to make reliable Data to train the Algorithm So that it can be reliable for me to run Simulations.
+ ---
