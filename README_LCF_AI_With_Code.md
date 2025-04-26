@@ -287,3 +287,24 @@ plt.show()
 - The chart shows how vibration amplitude changes with frequency.
 - This method helps identify the best AC frequency to increase collisions and improve fusion.
 
+# 📜 Code Explanation: Resonant AC Fusion Simulation
+
+This simulation models how **deuterons** react to **alternating electric fields** at different frequencies.
+
+### Step-by-Step Explanation:
+
+1. **Import Libraries:** `numpy` for numbers and `matplotlib` for plotting.
+2. **Generate Frequencies:** 500 points from 1 THz to 100 THz.
+3. **Define Resonance:** Natural resonance set at 42 THz (example).
+4. **Calculate Amplitude:** Max motion near resonance.
+5. **Add Random Noise:** To simulate real experimental errors.
+6. **Plot the Results:** Graph showing where resonance occurs.
+
+---
+## 📌 Additional Clarification
+
+- **42 THz** was used in the AC simulation for **demonstration purposes only**.
+- Real resonant frequencies would be calculated using solid-state physics principles.
+- Advanced studies could involve modeling "heavy electrons" (quasiparticles) to simulate muon-like behavior inside metallic lattices.
+
+---
