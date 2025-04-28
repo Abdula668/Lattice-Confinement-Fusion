@@ -350,22 +350,14 @@ Fusion Rate
 Amplitude
 ×
 𝑒
-<sup></sup>
-−
-2
-𝛾
-(
-𝑑
-0
-−
-𝐴
-)
+<sup>−2𝛾(𝑑0−𝐴)
+ </sup>
 
 Where:
 - 𝑑0 = Normal separation between two deuterons
 - A =	Oscillation amplitude caused by AC electric field
 - γ =	Constant related to the Coulomb barrier height
-- e ^−2γ(d0 − A) = Quantum tunneling probability
+- 𝑒<sup>−2𝛾(𝑑0−𝐴)</sup> = Quantum tunneling probability
   
 - ✅ As vibration amplitude A increases, effective distance (d0 −A) decreases.
 - ✅ Thus, tunneling probability and fusion rate increase exponentially.
