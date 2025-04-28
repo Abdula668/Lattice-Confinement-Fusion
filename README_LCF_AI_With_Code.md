@@ -359,7 +359,8 @@ Amplitude
 −
 𝐴
 )
-Fusion Rate∝Amplitude×e 
+
+Fusion Rate ∝ Amplitude × e 
 −2γ(d 
 0
 ​
