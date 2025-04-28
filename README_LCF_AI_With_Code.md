@@ -321,6 +321,44 @@ This simulation models how **deuterons** react to **alternating electric fields*
 
 ---
 
+# ⚛️ Resonant Fusion Probability Simulation (Physics-Based)
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Step 1: Define constants
+gamma = 50  # Coulomb barrier constant (example value)
+d0 = 1e-14  # Equilibrium distance (meters)
+base_amplitude = 1e-16  # Base vibration amplitude
+
+# Step 2: Define frequency range
+frequencies = np.linspace(1, 100, 500)  # Frequencies in THz
+
+# Step 3: Natural resonance frequency
+natural_resonance = 42  # THz
+
+# Step 4: Calculate amplitudes at different frequencies
+amplitudes = base_amplitude * (1 / (1 + ((frequencies - natural_resonance)/5)**2))
+
+# Step 5: Calculate tunneling-based fusion probabilities
+fusion_probabilities = np.exp(-2 * gamma * (d0 - amplitudes))
+
+# Step 6: Normalize for better visualization
+fusion_probabilities /= np.max(fusion_probabilities)
+
+# Step 7: Plot the results
+plt.figure(figsize=(10, 6))
+plt.plot(frequencies, fusion_probabilities, color='purple')
+plt.axvline(natural_resonance, color='red', linestyle='--', label=f"Resonance at {natural_resonance} THz")
+plt.title('Fusion Probability vs Frequency (Physics-Based Model)', fontsize=14)
+plt.xlabel('Frequency (THz)', fontsize=12)
+plt.ylabel('Relative Fusion Probability', fontsize=12)
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
 ## Step 1: Define Constants
 
 ```python
