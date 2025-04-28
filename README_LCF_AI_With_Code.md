@@ -360,12 +360,6 @@ Amplitude
 𝐴
 )
 
-Fusion Rate ∝ Amplitude × e 
-−2γ(d 
-0
-​
- −A)
- 
 Where:
 
 
@@ -412,12 +406,12 @@ A increases, effective distance
 
 ✅ Thus, tunneling probability and fusion rate increase exponentially.
 
-🎯 Final Conclusion
-Simply maximizing vibration is not enough.
+## 🎯 Final Conclusion
+- Simply maximizing vibration is not enough.
+- We must link vibration to tunneling and fusion using real physics models.
+- Our final model combines mechanical resonance and quantum tunneling.
 
-We must link vibration to tunneling and fusion using real physics models.
-
-Our final model combines mechanical resonance and quantum tunneling.
+---
 
 ## 🤖 Adding Artificial Intelligence (AI)
 - Now that we have a physics-based fusion formula, we bring in AI to:
