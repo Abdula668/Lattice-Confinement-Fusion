@@ -18,9 +18,11 @@ I'm still a beginner in Python, but AI helped me get this far, fast.
 
 This project is not just about fusion. It’s about:
 
-- Combining **human creativity** with **machine intelligence**
-- Learning how to build something meaningful, one step at a time
-- Contributing to the future of clean energy
+  ## My Notes:
+- All the code in this Project was written using ChatGPT, and I wish to understand the code so that I may be able to make improvements and changes according to my ideas. Since I am only a beginner in Python, many of these seem challenging. However, I understand this code at a basic level — that being, we first generate a dataset to train the AI and also to test the AI. Once we have trained the algorithm and confirmed its accuracy through testing, we can use it to make predictions to help us determine whether or not an idea is practical
+- For me, this isn't just about fusion — it's about everything in physics. I realize that the combination of AI, physics, and engineering can lead to truly groundbreaking discoveries, and I believe the idea that I am currently working on could be one of the many such results of this powerful combination.
+- As of Now I am both learning Python and Fusion Physics and trying to implement and come up with new Ideas as well
+- In the future, if possible, I would like to generate an AI similar to ChatGPT, but I wish for it to be able to actually simulate ideas, and for that to happen, it would need to be trained on maths, physics and scientific data as well.
 
 ---
 
@@ -127,11 +129,6 @@ This realization led me to:
 - Use AI to **write** code, but **run simulations locally**
 - Create my own **training data** (synthetic or real)
 - Work toward building a **domain-specific AI model** trained on physics simulations
-
-  ## My Notes:
-- All the code in this Project was written using ChatGPT, and I wish to understand the code so that I may be able to make improvements and changes according to my ideas. Since I am only a beginner in Python, many of these seem challenging. However, I understand this code at a basic level — that being, we first generate a dataset to train the AI and also to test the AI. Once we have trained the algorithm and confirmed its accuracy through testing, we can use it to make predictions to help us determine whether or not an idea is practical
-- For me, this isn't just about fusion — it's about everything in physics. I realize that the combination of AI, physics, and engineering can lead to truly groundbreaking discoveries, and I believe the idea that I am currently working on could be one of the many such results of this powerful combination.
-- In the future, if possible, I would like to generate an AI similar to ChatGPT, but I wish for it to be able to actually simulate ideas, and for that to happen, it would need to be trained on maths, physics and scientific data as well.
 
 ---
 
