@@ -350,6 +350,7 @@ Fusion Rate
 Amplitude
 ×
 𝑒
+<sup></sup>
 −
 2
 𝛾
