@@ -364,46 +364,12 @@ Where:
 
 
 Symbol	Meaning
-𝑑
-0
-d 
-0
-​
- 	Normal separation between two deuterons
-𝐴
-A	Oscillation amplitude caused by AC electric field
-𝛾
-γ	Constant related to the Coulomb barrier height
-𝑒
-−
-2
-𝛾
-(
-𝑑
-0
-−
-𝐴
-)
-e 
-−2γ(d 
-0
-​
- −A)
- 	Quantum tunneling probability
-✅ As vibration amplitude 
-𝐴
-A increases, effective distance 
-(
-𝑑
-0
-−
-𝐴
-)
-(d 
-0
-​
- −A) decreases.
-
+- 𝑑0 = Normal separation between two deuterons
+- A =	Oscillation amplitude caused by AC electric field
+- γ =	Constant related to the Coulomb barrier height
+- e ^−2γ(d0 − A) = Quantum tunneling probability
+  
+✅ As vibration amplitude A increases, effective distance (d0 −A) decreases.
 ✅ Thus, tunneling probability and fusion rate increase exponentially.
 
 ## 🎯 Final Conclusion
