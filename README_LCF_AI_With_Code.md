@@ -391,3 +391,14 @@ Step	Action
 
 ---
 
+## 📓 My Notes
+
+I can see that, as a result of my limited knowledge in AI and machine learning, I am not yet able to use much of them in this project. However, I want to improve in this area.
+
+My ultimate goal is to **train an AI similar to ChatGPT**, but one that is also trained on **mathematical and scientific data**, so that it can **run scientific simulations directly from conceptual ideas**, rather than requiring fully coded simulations for every new idea.
+
+This would enable researchers and inventors to accelerate innovation by simply describing their concepts — and having the AI handle the rest, including simulation, testing, and optimization.
+
+This project is my first step in that direction.
+
+
